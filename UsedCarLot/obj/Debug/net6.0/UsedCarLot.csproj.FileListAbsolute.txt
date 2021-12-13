@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\UsedCarLot.exe
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\UsedCarLot.deps.json
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\UsedCarLot.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\UsedCarLot.dll
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\ref\UsedCarLot.dll
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\bin\Debug\net6.0\UsedCarLot.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.dll
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\ref\UsedCarLot.dll
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek4\UsedCarLot\obj\Debug\net6.0\UsedCarLot.genruntimeconfig.cache
